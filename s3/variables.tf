@@ -5,7 +5,7 @@ variable "region" {
 
 variable "project" {
   description = "The project name"
-  default     = "dirox-sample"
+  default     = "sample"
 }
 
 variable "principal_arns" {

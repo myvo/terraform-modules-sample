@@ -14,7 +14,7 @@ provider "aws" {
   default_tags {
     tags = {
       cli = "terraform"
-      project = "dirox-sample-terraform-s3-backend"
+      project = "sample-terraform-s3"
     }
   }
 }
